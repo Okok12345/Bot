@@ -11,15 +11,15 @@
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "",
-    "AMDIN_NAME": "",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": "",
+    "BOTNAME": "Bot của Thọ",
+    "AMDIN_NAME": "Trần Danh Thọ",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/100066705560881",
+    "PREFIX": "/",
     "ADMINBOT": [
-        ""
+        "100066705560881"
     ],
     "NDH": [
-        ""
+        "100066705560811"
     ],
     "DATABASE": {
         "sqlite": {
